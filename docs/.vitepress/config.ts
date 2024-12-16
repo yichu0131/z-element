@@ -1,8 +1,9 @@
 import { defineConfig } from 'vitepress'
 import { containerPreview, componentPreview } from '@vitepress-demo-preview/plugin'
-const base = "/z-element/"
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/z-element/',
   title: "My Element Introduction",
   description: "A VitePress Site",
   markdown: {
