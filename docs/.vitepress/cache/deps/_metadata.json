@@ -1,0 +1,58 @@
+{
+  "hash": "65aa55ae",
+  "configHash": "a7b2bda5",
+  "lockfileHash": "7f28c029",
+  "browserHash": "19e9aa92",
+  "optimized": {
+    "vue": {
+      "src": "../../../../node_modules/.pnpm/vue@3.5.13_typescript@5.6.3/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "ca73c299",
+      "needsInterop": false
+    },
+    "vitepress > @vue/devtools-api": {
+      "src": "../../../../node_modules/.pnpm/@vue+devtools-api@7.6.8/node_modules/@vue/devtools-api/dist/index.js",
+      "file": "vitepress___@vue_devtools-api.js",
+      "fileHash": "c76ef9ca",
+      "needsInterop": false
+    },
+    "vitepress > @vueuse/core": {
+      "src": "../../../../node_modules/.pnpm/@vueuse+core@11.3.0_vue@3.5.13_typescript@5.6.3_/node_modules/@vueuse/core/index.mjs",
+      "file": "vitepress___@vueuse_core.js",
+      "fileHash": "ab60fbe2",
+      "needsInterop": false
+    },
+    "@fortawesome/fontawesome-svg-core": {
+      "src": "../../../../node_modules/.pnpm/@fortawesome+fontawesome-svg-core@6.7.1/node_modules/@fortawesome/fontawesome-svg-core/index.mjs",
+      "file": "@fortawesome_fontawesome-svg-core.js",
+      "fileHash": "2ea16912",
+      "needsInterop": false
+    },
+    "@fortawesome/free-solid-svg-icons": {
+      "src": "../../../../node_modules/.pnpm/@fortawesome+free-solid-svg-icons@6.7.1/node_modules/@fortawesome/free-solid-svg-icons/index.mjs",
+      "file": "@fortawesome_free-solid-svg-icons.js",
+      "fileHash": "73f96101",
+      "needsInterop": false
+    },
+    "@vitepress-demo-preview/component": {
+      "src": "../../../../node_modules/.pnpm/@vitepress-demo-preview+component@2.3.2_vitepress@1.5.0_@algolia+client-search@5.17.1_@types+_anbattw7sxgq7mi76k7xcbq4ya/node_modules/@vitepress-demo-preview/component/dist/preview-component.js",
+      "file": "@vitepress-demo-preview_component.js",
+      "fileHash": "4698ae2c",
+      "needsInterop": false
+    },
+    "@yichu0131/z-element": {
+      "src": "../../../../node_modules/.pnpm/@yichu0131+z-element@1.0.9_typescript@5.6.3/node_modules/@yichu0131/z-element/dist/es/v-element.js",
+      "file": "@yichu0131_z-element.js",
+      "fileHash": "f24a7d7e",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-H5USCQOV": {
+      "file": "chunk-H5USCQOV.js"
+    },
+    "chunk-5TCDO6LD": {
+      "file": "chunk-5TCDO6LD.js"
+    }
+  }
+}
