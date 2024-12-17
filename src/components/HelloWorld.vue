@@ -162,6 +162,7 @@ const reset = () => {
     <div>
       <!-- button -->
       <vk-button>quanbu</vk-button>
+      <vk-button circle size="large">圆</vk-button>
       <br>
       <br>
       <!-- collapse -->

@@ -21,16 +21,16 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '基础',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '快速开始', link: '/markdown-examples' },
         ]
       },
       {
-        text: 'Basic',
+        text: '常用组件',
         items: [
           { text: 'Button', link: '/components/button' },
+          { text: 'Collapse', link: '/components/collapse' }
         ]
       }
     ],
